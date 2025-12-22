@@ -6,7 +6,7 @@ Each order triggers an external fulfillment API and stores the returned fulfillm
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 - Java 17
 - Spring Boot
@@ -15,7 +15,7 @@ Each order triggers an external fulfillment API and stores the returned fulfillm
 
 ---
 
-## Features
+## 📦 Features
 
 - Wallet maintained per client
 - Admin APIs to credit and debit wallet
@@ -26,4 +26,3 @@ Each order triggers an external fulfillment API and stores the returned fulfillm
 - Optimistic locking for wallet concurrency safety
 
 ---
-
