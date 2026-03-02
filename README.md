@@ -23,6 +23,5 @@ Each order triggers an external fulfillment API and stores the returned fulfillm
 - Order creation with atomic wallet deduction
 - External fulfillment API integration
 - Order details retrieval with fulfillment ID
-- Optimistic locking for wallet concurrency safety
 
 ---
